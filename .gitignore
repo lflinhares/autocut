@@ -1,0 +1,39 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+ENV/
+.env/
+.venv/
+
+# Configs locais
+*.log
+*.pot
+*.pyc
+
+# IDEs/editores
+.vscode/
+.idea/
+
+# Testes
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+pytest_cache/
+.pytest_cache/
+
+# Builds/distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Arquivos pessoais
+*.mp3
+*.mp4
+video_baixado_transcription.txt
