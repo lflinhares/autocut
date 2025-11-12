@@ -38,3 +38,6 @@ dist/
 *.mp3
 *.mp4
 video_baixado_transcription.txt
+
+
+.env
