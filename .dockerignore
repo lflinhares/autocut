@@ -1,0 +1,22 @@
+# .dockerignore
+
+# Ignore the virtual environment
+venv
+
+# Ignore the output folder with all the media files
+output
+
+# Ignore Python's cache files
+__pycache__
+*.pyc
+
+# Ignore Docker build cache
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Ignore git files
+.git
+.gitignore
+
+*.mp4
