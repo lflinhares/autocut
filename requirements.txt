@@ -1,5 +1,14 @@
+fastapi[all]
+watchfiles
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+celery
+redis
 yt-dlp
 moviepy
 openai-whisper
-python-dotenv
 google-generativeai
+python-dotenv
